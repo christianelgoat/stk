@@ -102,7 +102,7 @@ const App: React.FC = () => {
       <main className="container mx-auto px-4 py-12 md:py-20">
         <header className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-extrabold text-brand-dark tracking-tight">
-            Análisis Interactivo de Stakeholders
+            Análisis de Stakeholders
           </h1>
           
         </header>
