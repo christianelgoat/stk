@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Stakeholder Infographic",
+  "description": "An interactive web application to visualize and understand professional stakeholders, their interests, influence, impact, and management strategies. Built with React and Tailwind CSS for a clean, professional interface.",
+  "requestFramePermissions": []
+}
